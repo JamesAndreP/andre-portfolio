@@ -3,14 +3,14 @@
     <div class="name_main">
         <div class="wrapper">
             <div class="name_container">
-                <div>
-                    <span class="gray_text">I'm </span>
-                    <span class="orange_text">James Andre</span>
+                <div class="name_first_row">
+                    <span class="white_text im_text">I'm </span>
+                    <span class="orange_text james_andre_text">James Andre</span>
                 </div>
-                <div class="white_text">A WEB</div>
+                <div class="white_text name_second_row">A WEB</div>
                 <div class="name_third_row">
-                    <div class="white_text">DEVELOPER</div>
-                    <div class="orange_square"></div>
+                    <span class="white_text">DEVELOPER</span>
+                    <span class="orange_text">.</span>
                 </div>
             </div>
         </div>

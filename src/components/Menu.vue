@@ -1,4 +1,9 @@
 <template>
+    <div class="hamburger">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
     <div class="menu_main">
         <div class="wrapper">
             <div class="menu_container">
